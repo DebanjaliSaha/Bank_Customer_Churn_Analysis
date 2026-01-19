@@ -74,7 +74,7 @@ Bank experiencing 20.4% annual churn (2,037 customers). Analysis identifies root
 ## 📁 Repository Structure
 ```
 ├── README.md                        # Project documentation
-├── Churn_Modelling2004haha.xlsx     # Dataset (10,000 customer records)
+├── Churn_Modelling.csv              # Dataset (10,000 customer records)
 ├── dashboard-preview.png            # Interactive dashboard screenshot
 ```
 
