@@ -40,8 +40,11 @@ Bank experiencing 20.4% annual churn (2,037 customers). Analysis identifies root
 
 *Interactive visualization across 9 analytical dimensions including demographics, product holdings, and engagement metrics.*
 
-## Power BI Dashboard
-<img 
+## 📊 Power BI Dashboard
+<img width="1154" height="812" alt="Screenshot (388)" src="https://github.com/user-attachments/assets/0adbed74-d0bf-494d-832e-5f3a92c427e3" />
+
+*Interactive Power BI dashboard with slicers for age category and gender, featuring KPI cards, product churn analysis, geography breakdown, and age distribution.*
+
 
 ## 💼 Business Impact & Value Delivered
 
@@ -68,10 +71,11 @@ Bank experiencing 20.4% annual churn (2,037 customers). Analysis identifies root
 
 ## 🎓 Skills Demonstrated
 ✅ **Excel**: Pivot tables, data aggregation, cross-tabulation, statistical analysis, dashboard creation.  
+✅ **Power BI**: Data modeling, DAX measures, KPI cards, interactive visualizations, cross-filtering.
 ✅ **Data Analysis**: Customer segmentation, cohort comparison, churn rate analysis.  
 ✅ **Business Insight**: Pattern recognition, strategic recommendations, ROI prioritization.  
 ✅ **Communication**: Executive-level reporting, actionable insights.
-✅ **Power BI**: Data modeling, DAX measures, KPI cards, interactive visualizations, cross-filtering.
+✅ **Data Visualization**: Interactive dashboard design, KPI presentation, multi-chart layout.
 
 
 ## 📁 Repository Structure
@@ -108,4 +112,4 @@ Bank experiencing 20.4% annual churn (2,037 customers). Analysis identifies root
 
 *Developed for data analytics portfolio showcasing consulting-level analysis | Completed in 3 days*
 
-**Tags**: `#DataAnalytics` `#CustomerRetention` `#ChurnAnalysis` `#BusinessIntelligence` `#Excel` `#Python` `#Banking`
+**Tags**: `#DataAnalytics` `#Data Modelling` `#CustomerRetention` `#ChurnAnalysis` `#BusinessIntelligence` `#Excel` `#Power BI` `#Banking`
