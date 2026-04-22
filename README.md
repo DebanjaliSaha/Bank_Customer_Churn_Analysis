@@ -40,6 +40,9 @@ Bank experiencing 20.4% annual churn (2,037 customers). Analysis identifies root
 
 *Interactive visualization across 9 analytical dimensions including demographics, product holdings, and engagement metrics.*
 
+## Power BI Dashboard
+<img 
+
 ## 💼 Business Impact & Value Delivered
 
 **Actionable Intelligence for Leadership:**
@@ -60,7 +63,7 @@ Bank experiencing 20.4% annual churn (2,037 customers). Analysis identifies root
 ## 🛠️ Methodology
 - **Dataset**: 10,000 customers | 3 markets (France, Germany, Spain) | 14 variables including demographics, account activity, product holdings, and churn status
 - **Approach**: Segmentation analysis, cohort comparison, pattern recognition, strategic translation
-- **Tools**: Excel (pivot tables, statistical analysis), Python (Pandas, NumPy for data validation)
+- **Tools**: Excel (pivot tables, statistical analysis), Power BI (interactive dashboard, DAX measures, data modeling)
 - **Analysis Type**: Exploratory Data Analysis (EDA) with business insight generation
 
 ## 🎓 Skills Demonstrated
@@ -68,14 +71,16 @@ Bank experiencing 20.4% annual churn (2,037 customers). Analysis identifies root
 ✅ **Data Analysis**: Customer segmentation, cohort comparison, churn rate analysis.  
 ✅ **Business Insight**: Pattern recognition, strategic recommendations, ROI prioritization.  
 ✅ **Communication**: Executive-level reporting, actionable insights.
-✅ **Data Visualization**: Interactive dashboard design, KPI presentation.  
+✅ **Power BI**: Data modeling, DAX measures, KPI cards, interactive visualizations, cross-filtering.
 
 
 ## 📁 Repository Structure
 ```
 ├── README.md                        # Project documentation
 ├── Churn_Modelling.csv              # Dataset (10,000 customer records)
-├── dashboard-preview.png            # Interactive dashboard screenshot
+├── dashboard-preview.png            # Excel dashboard screenshot
+├── BankChurnDashboard.pbix          # Power BI interactive dashboard
+├── powerbi-dashboard-preview.png    # Power BI dashboard screenshot
 ```
 
 ## 🔮 Future Enhancements
