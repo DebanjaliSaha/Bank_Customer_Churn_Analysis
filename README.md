@@ -7,7 +7,7 @@ Bank experiencing 20.4% annual churn (2,037 customers). Analysis identifies root
 
 ## 💡 Critical Insights Discovered
 
-**1. Product Complexity Paradox(Most Critical)** 
+**1. Product Complexity Paradox (Most Critical)** 
 - 3-4 products → 82.7-100% churn vs 2 products → 7.6% churn
 - Current cross-selling strategy destroying customer value
 - **Action**: Immediate halt to 3+ product campaigns; portfolio simplification program
@@ -117,7 +117,7 @@ Strategic Recommendations
 - **Customer Lifetime Value**: Calculate revenue impact of retention across segments
 - **Time-Series Analysis**: Identify seasonal churn patterns and trigger points
 - **A/B Testing Framework**: Design experiments to validate retention interventions
-- **Python Migration**: Rebuild analysis pipeline in Python(Pandas, Seaborn) for automated insight generation
+- **Python Migration**: Rebuild analysis pipeline in Python (Pandas, Seaborn) for automated insight generation
 
 ## 📊 Key Statistics Summary
 
