@@ -7,8 +7,7 @@ Bank experiencing 20.4% annual churn (2,037 customers). Analysis identifies root
 
 ## 💡 Critical Insights Discovered
 
-**1. Product Complexity Paradox**
- (Most Critical)
+**1. Product Complexity Paradox(Most Critical)** 
 - 3-4 products → 82.7-100% churn vs 2 products → 7.6% churn
 - Current cross-selling strategy destroying customer value
 - **Action**: Immediate halt to 3+ product campaigns; portfolio simplification program
@@ -35,10 +34,51 @@ Bank experiencing 20.4% annual churn (2,037 customers). Analysis identifies root
 - Tenure: No protective effect—churn stays consistently around 20% across 0-10 years
 - Credit card: Negligible difference (20.81% vs 20.18%, only 0.63% gap)
 
-## 📊 Dashboard
+## 🏗️ Workflow Architecture
+```
+Raw CSV (10,000 records)
+            ↓
+Data Cleaning & Validation (Excel)
+            ↓
+Exploratory Data Analysis (Excel Pivot Tables)
+            ↓
+Segmentation & Cohort Analysis (Excel Cross-Tabulation)
+            ↓
+Business Insight Generation
+            ↓
+Interactive Dashboard (Power BI)
+            ↓
+Strategic Recommendations
+```
+
+## 🛠️ Tools & Technologies
+
+**Data Processing Layer**
+- Microsoft Excel
+  - Pivot Tables & Cross-Tabulation
+  - LOOKUP Functions
+  - Data Cleaning & Validation
+  - Statistical Analysis
+
+**Business Intelligence Layer**
+- Microsoft Power BI
+  - DAX (Calculated Measures & KPIs)
+  - Data Modeling
+  - Interactive Dashboards
+  - Cross-filtering & Slicers
+
+**Analysis Techniques**
+- Exploratory Data Analysis (EDA)
+- Customer Segmentation
+- Cohort Analysis
+- Churn Rate Analysis
+- Pattern Recognition
+- Strategic Business Translation
+
+## 📊 Excel Dashboard
 <img width="705" alt="Dashboard" src="https://github.com/user-attachments/assets/28fbc225-f4e7-4281-a4f2-161da7c9e6a4" />
 
-*Interactive visualization across 9 analytical dimensions including demographics, product holdings, and engagement metrics.*
+*Excel dashboard visualizing churn patterns across 9 analytical dimensions.*
 
 ## 📊 Power BI Dashboard
 <img width="1349" height="803" alt="Screenshot (390)" src="https://github.com/user-attachments/assets/97fc2907-4b9c-4ef2-a255-763e7dd48082" />
@@ -61,22 +101,7 @@ Bank experiencing 20.4% annual churn (2,037 customers). Analysis identifies root
 **Operational Efficiency Gains:**
 - Clear prioritization of retention efforts: Germany + 55+ females + inactive members = highest ROI segments
 - Eliminated wasteful spending on ineffective credit score-based or tenure-based programs
-- Created data-driven framework for testing retention interventions with measurable success metrics
-
-## 🛠️ Methodology
-- **Dataset**: 10,000 customers | 3 markets (France, Germany, Spain) | 14 variables including demographics, account activity, product holdings, and churn status
-- **Approach**: Segmentation analysis, cohort comparison, pattern recognition, strategic translation
-- **Tools**: Excel (pivot tables, statistical analysis), Power BI (interactive dashboard, DAX measures, data modeling)
-- **Analysis Type**: Exploratory Data Analysis (EDA) with business insight generation
-
-## 🎓 Skills Demonstrated
-✅ **Excel**: Pivot tables, data aggregation, cross-tabulation, statistical analysis, dashboard creation.  
-✅ **Power BI**: Data modeling, DAX measures, KPI cards, interactive visualizations, cross-filtering.
-✅ **Data Analysis**: Customer segmentation, cohort comparison, churn rate analysis.  
-✅ **Business Insight**: Pattern recognition, strategic recommendations, ROI prioritization.  
-✅ **Communication**: Executive-level reporting, actionable insights.
-✅ **Data Visualization**: Interactive dashboard design, KPI presentation, multi-chart layout.
-
+- Created data-driven framework for testing retention interventions with measurable success metrics.
 
 ## 📁 Repository Structure
 ```
@@ -92,12 +117,12 @@ Bank experiencing 20.4% annual churn (2,037 customers). Analysis identifies root
 - **Customer Lifetime Value**: Calculate revenue impact of retention across segments
 - **Time-Series Analysis**: Identify seasonal churn patterns and trigger points
 - **A/B Testing Framework**: Design experiments to validate retention interventions
-- **Sentiment Analysis**: Integrate qualitative feedback from exit interviews
+- **Python Migration**: Rebuild analysis pipeline in Python(Pandas, Seaborn) for automated insight generation
 
 ## 📊 Key Statistics Summary
 
 | Metric | Finding | Business Implication |
-|--------|---------|---------------------|
+|--------|---------|----------------------|
 | Overall Churn | 20.4% (2,037/10,000) | 1 in 5 customers leaving annually |
 | Germany Risk | 32.4% (814 churners) | Market-specific crisis requiring immediate action |
 | Age Impact | 55+: 36.75% vs ≤35: 7.88% | 4.7x higher senior churn reveals service gap |
@@ -110,6 +135,6 @@ Bank experiencing 20.4% annual churn (2,037 customers). Analysis identifies root
 **Author**: Debanjali Saha  
 📧 debanjalisaha04@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/debanjali-saha-ba11aa255/)
 
-*Developed for data analytics portfolio showcasing consulting-level analysis | Completed in 3 days*
+*Developed for data analytics portfolio showcasing consulting-level business analysis*
 
 **Tags**: `#DataAnalytics` `#Data Modelling` `#CustomerRetention` `#ChurnAnalysis` `#BusinessIntelligence` `#Excel` `#Power BI` `#Banking`
