@@ -1,6 +1,7 @@
 # Bank Customer Churn Analysis
 
 **Comprehensive customer churn analysis across 10,000-customer European banking portfolio identifying critical retention opportunities**
+---
 
 ## 🎯 Business Problem
 Bank experiencing 20.4% annual churn (2,037 customers). Analysis identifies root causes and quantifies retention opportunities across demographics, products, and engagement patterns.
